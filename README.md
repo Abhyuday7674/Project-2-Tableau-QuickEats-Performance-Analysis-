@@ -29,3 +29,20 @@ In addition to the dashboard, a separate analysis document provides:
 - **QuickEats_Performance_Analysis.twbx** – Interactive Tableau dashboard
 - **QuickEats_Strategic_Recommendations.pdf** – Business analysis and recommendations
 - **dashboard.png** – Dashboard preview image
+
+  ## Dashboard Overview
+
+This Tableau project consists of three interconnected dashboards:
+
+1. **Executive Summary**
+   Provides a high-level view of revenue, order volume, delivery time,
+   and overall customer satisfaction.
+
+2. **Operations Deep Dive**
+   Analyzes delivery efficiency, preparation time, and restaurant-level
+   performance to identify operational bottlenecks.
+
+3. **Customer & Cuisine Insights**
+   Explores satisfaction trends, cost vs rating behavior, and cuisine-level
+   retention risks to support customer-focused decisions.
+
